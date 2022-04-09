@@ -1,0 +1,1 @@
+# algorytm-najszybszego-spadku
